@@ -10,13 +10,15 @@ A basic Vite template for Vue 3 projects. This includes the following by default
   - `eslint-plugin-vue`.
 - <details>
     <summary>TypeScript;</summary>
+  
     ```bash
     pnpm remove typescript typescript-eslint
     ```
     </details>
 - <details>
     <summary>Vitest + Vue Test Utils, for testing components;</summary>
-    ```bash
+    
+  ```bash
     pnpm remove vitest @vue/test-utils
     ```
     </details>
